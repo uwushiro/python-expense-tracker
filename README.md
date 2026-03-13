@@ -1,4 +1,4 @@
-# 💰 Expense Tracker Web App
+# Expense Tracker Web App
 
 Aplicación web para registrar y visualizar gastos personales.
 
@@ -6,7 +6,7 @@ Construida con **Python y FastAPI**, permite agregar, eliminar y visualizar gast
 
 ---
 
-## 🚀 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - Python
 - FastAPI
@@ -17,7 +17,7 @@ Construida con **Python y FastAPI**, permite agregar, eliminar y visualizar gast
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Agregar gastos
 - Eliminar gastos
@@ -28,7 +28,7 @@ Construida con **Python y FastAPI**, permite agregar, eliminar y visualizar gast
 
 ---
 
-## 📊 Dashboard
+## Dashboard
 
 La aplicación muestra:
 
@@ -39,7 +39,7 @@ La aplicación muestra:
 
 ---
 
-## ⚙️ Cómo ejecutar el proyecto
+## Cómo ejecutar el proyecto
 
 1. Clonar repositorio
 
@@ -63,7 +63,7 @@ http://127.0.0.1:8000
 
 ---
 
-## 📌 Futuras mejoras
+## Futuras mejoras
 
 - Sistema de usuarios
 - Exportar gastos a CSV
@@ -72,7 +72,7 @@ http://127.0.0.1:8000
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Issei Uwashiro**
 
